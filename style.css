@@ -1,14 +1,4 @@
-::-webkit-scrollbar {
-    width: 4px;
-  }
-  ::-webkit-scrollbar-thumb {
-    background: #999797;
-  }
-  ::-webkit-scrollbar-track {
-    background: #efefef;
-  }
-  
-  body {
+body {
     margin-top: 2%;
     margin-right: 2%;
     margin-left: 2%;
@@ -1716,4 +1706,12 @@
       padding-left: 20px;
     }
   }
-  
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #999797;
+  }
+  ::-webkit-scrollbar-track {
+    background: #efefef;
+  }
